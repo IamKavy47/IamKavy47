@@ -63,10 +63,10 @@ me.say_hi()
 
 <div align="center">
 <a href="https://github.com/IamKavy47/Medibot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-chatbot&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=ai-chatbot&theme=algolia" />
 </a>
 <a href="https://github.com/IamKavy47/Kaash-AI-Assistant-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=scalable-webapp&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKavy47&repo=Kaash-AI-Assistant-&theme=algolia" />
 </a>
 </div>
 
@@ -80,7 +80,7 @@ me.say_hi()
 <h3 align="center">📬 Get in Touch</h3>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kavyporwal75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://calendly.com/yourusername"><img src="https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
 </p>
 
