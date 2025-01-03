@@ -25,9 +25,5 @@
     <text x="40" y="20" class="skill">TensorFlow</text>
   </g>
 
-  <g transform="translate(200, 100)">
-    <rect width="30" height="30" rx="5" ry="5" class="icon"/>
-    <text x="40" y="20" class="skill">l</text>
-  </g>
 </svg>
 
