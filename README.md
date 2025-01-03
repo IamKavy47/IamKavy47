@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/iamkavy47" target="_blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="Twitter" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://twitter.com/iamkavy47" target="_blank"><img src="https://img.shields.io/twitter/follow/iamkavy47?logo=twitter&style=for-the-badge" alt="Twitter" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/iamkavy47" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
  </a>
 </p>
 
