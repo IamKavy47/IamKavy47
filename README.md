@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="Twitter" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://yourusername.medium.com" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://twitter.com/iamkavy47" target="_blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="Twitter" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+ </a>
 </p>
 
 <details>
@@ -33,13 +33,13 @@ me.say_hi()
 </details>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=algolia" alt="yourusername" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamKavy47&theme=algolia" alt="yourusername" /></p>
 
 <h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,vue,nodejs,django,flask,docker,kubernetes,aws&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs&perline=3" />
   </a>
 </p>
 
