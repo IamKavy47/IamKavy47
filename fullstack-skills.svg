@@ -1,0 +1,37 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .title { fill: #2f80ed; font-size: 20px; font-weight: bold; }
+    .skill { fill: #4c4c4c; font-size: 14px; }
+    .icon { fill: #2f80ed; }
+  </style>
+  
+  <rect width="100%" height="100%" fill="#f0f0f0" rx="10" ry="10"/>
+  
+  <text x="50%" y="30" class="title" text-anchor="middle">Fullstack Skills</text>
+  
+  <g transform="translate(20, 50)">
+    <rect width="30" height="30" rx="5" ry="5" class="icon"/>
+    <text x="40" y="20" class="skill">React</text>
+  </g>
+  
+  <g transform="translate(200, 50)">
+    <rect width="30" height="30" rx="5" ry="5" class="icon"/>
+    <text x="40" y="20" class="skill">Node.js</text>
+  </g>
+  
+  <g transform="translate(20, 100)">
+    <rect width="30" height="30" rx="5" ry="5" class="icon"/>
+    <text x="40" y="20" class="skill">Django</text>
+  </g>
+  
+  <g transform="translate(200, 100)">
+    <rect width="30" height="30" rx="5" ry="5" class="icon"/>
+    <text x="40" y="20" class="skill">PostgreSQL</text>
+  </g>
+  
+  <g transform="translate(20, 150)">
+    <rect width="30" height="30" rx="5" ry="5" class="icon"/>
+    <text x="40" y="20" class="skill">Docker</text>
+  </g>
+</svg>
+
