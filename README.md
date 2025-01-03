@@ -63,7 +63,7 @@ me.say_hi()
 
 <div align="center">
 <a href="https://github.com/IamKavy47/Medibot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=&repo=ai-chatbot&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?IamKavy47=&repo=Medibot&theme=algolia" />
 </a>
 <a href="https://github.com/IamKavy47/Kaash-AI-Assistant-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKavy47&repo=Kaash-AI-Assistant-&theme=algolia" />
