@@ -62,10 +62,10 @@ me.say_hi()
 ## 🎨 Featured Projects
 
 <div align="center">
-<a href="https://github.com/IamKavy47/Medi-bot">
+<a href="https://github.com/IamKavy47/Medibot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-chatbot&theme=algolia" />
 </a>
-<a href="https://github.com/yourusername/scalable-webapp">
+<a href="https://github.com/IamKavy47/Kaash-AI-Assistant-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=scalable-webapp&theme=algolia" />
 </a>
 </div>
