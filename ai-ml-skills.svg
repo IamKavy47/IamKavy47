@@ -14,24 +14,11 @@
     <text x="40" y="20" class="skill">Machine Learning</text>
   </g>
   
-  <g transform="translate(200, 50)">
-    <rect width="30" height="30" rx="5" ry="5" class="icon"/>
-    <text x="40" y="20" class="skill">Deep Learning</text>
-  </g>
-  
-  <g transform="translate(20, 100)">
-    <rect width="30" height="30" rx="5" ry="5" class="icon"/>
-    <text x="40" y="20" class="skill">NLP</text>
   </g>
   
   <g transform="translate(200, 100)">
     <rect width="30" height="30" rx="5" ry="5" class="icon"/>
     <text x="40" y="20" class="skill">Computer Vision</text>
-  </g>
-  
-  <g transform="translate(20, 150)">
-    <rect width="30" height="30" rx="5" ry="5" class="icon"/>
-    <text x="40" y="20" class="skill">Data Science</text>
   </g>
 </svg>
 
