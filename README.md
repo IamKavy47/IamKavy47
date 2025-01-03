@@ -48,21 +48,21 @@ me.say_hi()
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your Name's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your Name's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamKavy47&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yourusername" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IamKavy47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yourusername" height="192px"/>
   <br/>
   </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IamKavy47&theme=algolia&column=7&no-frame=true" />
 </p>
 
 ## 🎨 Featured Projects
 
 <div align="center">
-<a href="https://github.com/yourusername/ai-chatbot">
+<a href="https://github.com/IamKavy47/Medi-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-chatbot&theme=algolia" />
 </a>
 <a href="https://github.com/yourusername/scalable-webapp">
