@@ -20,8 +20,8 @@
 \`\`\`python
 class AIFullstackDeveloper:
     def __init__(self):
-        self.name = "Your Name"
-        self.role = "AI/ML Engineer & Fullstack Developer"
+        self.name = "Kavy Porwal"
+        self.role = "AI/ML Engineer & Front-end Developer"
         self.language_spoken = ["en_US", "es_ES", "zh_CN"]
 
     def say_hi(self):
