@@ -2,10 +2,10 @@
   <img src="header.png" alt="AI/ML Fullstack Developer" width="100%">
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://yourportfolio.com" target="_blank">Kavy </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
+<h1 align="center">Hi there, I'm <a href="https://iamkavy47.vercel.app target="_blank">Kavy </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <p align="center">
-  <a href="https://github.com/IamKavy47"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML%20Engineer;Fullstack%20Web%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/IamKavy47"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML%20Engineer;Frontend%20Web%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
