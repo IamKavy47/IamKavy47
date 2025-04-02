@@ -48,7 +48,7 @@ me.say_hi()
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Your Name's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamKavy47&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=iamkavy47&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IamKavy47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yourusername" height="192px"/>
