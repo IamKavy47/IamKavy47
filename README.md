@@ -51,7 +51,7 @@ me.say_hi()
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=iamkavy47&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IamKavy47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yourusername" height="192px"/>
+	  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkavy47&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <br/>
   </p>
 
