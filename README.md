@@ -33,7 +33,7 @@ me.say_hi()
 </details>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamKavy47&theme=algolia" alt="yourusername" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamKavy47&theme=algolia" alt="Streak stats" /></p>
 
 <h3 align="center">⚡ Tech Stack</h3>
 
