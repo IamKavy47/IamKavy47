@@ -64,20 +64,13 @@ me.say_hi()
 ## 🎨 Featured Projects
 
 <div align="center">
-<a href="https://github.com/IamKavy47/Medibot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKavy47&repo=Medibot&theme=algolia" />
+<a href="https://github.com/IamKavy47/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKavy47&repo=portfolio&theme=algolia" />
 </a>
 <a href="https://github.com/IamKavy47/Kaash-AI-Assistant-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKavy47&repo=Kaash-AI-Assistant-&theme=algolia" />
 </a>
 </div>
-
-<h3 align="center">🌟 Highlighted Skills</h3>
-
-<p align="center">
-  <img src="ai-ml-skills.svg" alt="AI/ML Skills" width="400">
-  <img src="fullstack-skills.svg" alt="Fullstack Skills" width="400">
-</p>
 
 <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="/snake.svg" />
