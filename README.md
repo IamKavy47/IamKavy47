@@ -77,6 +77,9 @@ me.say_hi()
   <img src="fullstack-skills.svg" alt="Fullstack Skills" width="400">
 </p>
 
+<h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
 <h3 align="center">📬 Get in Touch</h3>
 
 <p align="center">
