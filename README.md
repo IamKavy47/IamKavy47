@@ -33,9 +33,7 @@ me.say_hi()
 </details>
 
 ## 🔥 Streak Stats
-<p align="center">
-	<img width=390 src="https://streak-stats.demolab.com/?user=iamkavy47&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamKavy47&theme=algolia" alt="yourusername" /></p>
 
 <h3 align="center">⚡ Tech Stack</h3>
 
