@@ -34,6 +34,7 @@ me.say_hi()
 
 ## 🔥 Streak Stats
 <p align="center">
+	[![GitHub Streak](https://streak-stats.demolab.com/?user=iamkavy47)](https://git.io/streak-stats)
 	<a href="https://git.io/streak-stats">
 		<img src="https://github-readme-streak-stats.herokuapp.com?user=Iamkavy47&theme=dark&hide_border=true" alt="GitHub Streak" />
 	</a>
