@@ -34,7 +34,7 @@ me.say_hi()
 
 ## 🔥 Streak Stats
 <p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=IamKavy47&theme=react&border_radius=10" alt="GitHub Streak" /></a>
+	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iamkavy47&theme=tokyonight-duo)](https://git.io/streak-stats)
 </p>
 
 <h3 align="center">⚡ Tech Stack</h3>
