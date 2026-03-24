@@ -77,11 +77,11 @@ me.say_hi()
 
 <p align="center">
   <a href="mailto:kavyporwal75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://calendly.com/yourusername"><img src="https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
+  <a href="https://calendly.com/iamkavy47"><img src="https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=iamkavy47&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
 </p>
 
 <div align="center">
