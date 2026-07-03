@@ -62,12 +62,10 @@ me.say_hi()
 ## 🎨 Featured Projects
 
 <div align="center">
-<a href="https://github.com/IamKavy47/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKavy47&repo=portfolio&theme=algolia" />
+<a href="https://github.com/IamKavy47/MARS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKavy47&repo=MARS&theme=algolia" />
 </a>
-<a href="https://github.com/IamKavy47/Kaash-AI-Assistant-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKavy47&repo=Kaash-AI-Assistant-&theme=algolia" />
-</a>
+
 </div>
 
 <h2>🐍 Contributions 🐍</h2>
