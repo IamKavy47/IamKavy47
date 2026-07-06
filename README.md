@@ -2,42 +2,45 @@
 
 AI Engineer • Generative AI Developer • Python Developer
 
-Building intelligent systems with LLMs, RAG, AI Agents, and Machine Learning.
+Building intelligent systems with LLMs, AI Agents, RAG, and Machine Learning.
 
-</div>---
+<p>
+  <a href="https://github.com/IamKavy47">GitHub</a> •
+  <a href="https://www.linkedin.com/in/iamkavy47">LinkedIn</a> •
+  <a href="https://kavviport.dev">Portfolio</a>
+</p></div>---
 
 🧠 About Me
 
-I'm a Computer Science (AI) student passionate about designing and building AI-powered applications that solve real-world problems.
+I'm a Computer Science (AI) student passionate about building AI-powered applications and agentic systems.
 
-My primary interests include:
+Current Interests
 
-- 🤖 AI Agents & Agentic Workflows
+- 🤖 AI Agents
 - 🧠 Retrieval-Augmented Generation (RAG)
 - 🔗 LangGraph & LangChain
 - 📝 Large Language Models (LLMs)
-- ⚡ FastAPI & Python Backends
+- ⚡ Python & FastAPI
 - 📊 Machine Learning
 - 🚀 Production AI Systems
 
 ---
 
-🚀 Current Focus
+🚀 Featured Project
 
-Learning → Building → Deploying
+MARS — Multi-Agent Research System
 
-✓ Python
-✓ Machine Learning
-✓ Generative AI
-✓ LangChain
-✓ LangGraph
-✓ RAG Systems
+Repository: https://github.com/IamKavy47/MARS
 
-Currently Exploring:
-→ Multi-Agent Systems
-→ AI Guardrails
-→ Evaluation Frameworks
-→ Production AI Architecture
+An AI-powered research system that performs deep research on a given topic using multiple specialized agents and generates structured summaries, insights, and reports.
+
+Tech Stack
+
+- Python
+- LangGraph
+- LangChain
+- Gemini
+- FastAPI
 
 ---
 
@@ -49,18 +52,14 @@ Languages
   <img src="https://skillicons.dev/icons?i=python" />
 </p>AI & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>Generative AI
-
 - LangChain
 - LangGraph
 - Gemini
 - OpenAI
 - Hugging Face
-- Vector Databases
-- RAG Pipelines
+- RAG
 - AI Agents
+- Machine Learning
 
 Backend
 
@@ -72,71 +71,37 @@ Backend
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>---
 
-🌟 Featured Projects
+📚 Currently Learning
 
-🧠 AI PPT Generator
-
-Generate complete presentations using AI-generated content and images.
-
-💬 MediBot
-
-Mental health chatbot powered by Machine Learning and NLP.
-
-📊 Social Media Performance Analyzer
-
-AI workflow for analyzing engagement and extracting actionable insights.
-
-🤖 Agentic AI Experiments
-
-Building AI workflows using LangGraph, LangChain, and modern agent architectures.
+- Advanced LangGraph
+- Multi-Agent Systems
+- AI Guardrails
+- MCP
+- FastAPI
+- Production AI Architecture
 
 ---
 
-📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IamKavy47&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKavy47&layout=compact&theme=tokyonight&hide_border=true" />
-</p><p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=IamKavy47&theme=tokyonight&hide_border=true" />
-</p>---
-
-🗺️ AI Journey
-
-2024 → Started Programming & Machine Learning
-
-2025 → Built AI Applications and ML Projects
-
-2026 → Generative AI, LangChain, LangGraph, RAG
-
-Next Goal →
-Production AI Systems
-Multi-Agent Architectures
-AI SaaS Products
-
----
-
-🎯 2026 Goals
+🎯 Goals
 
 - Build production-ready AI applications
-- Master LangGraph and Agentic AI
+- Master Agentic AI systems
 - Learn AI evaluation and guardrails
 - Contribute to open-source AI projects
-- Participate in major hackathons
 - Launch AI-powered products
 
 ---
 
 🌐 Connect With Me
 
-Portfolio: https://iamkavy47.vercel.app
+Portfolio: https://kavyporwal.dev
 
-LinkedIn: https://linkedin.com/in/iamkavy47
+LinkedIn: https://www.linkedin.com/in/iamkavy47
 
 GitHub: https://github.com/IamKavy47
 
 ---
 
-<div align="center">"Building AI products today that feel like the future."
+<div align="center">Building AI systems that can reason, research, and take action.
 
 </div>
