@@ -1,89 +1,142 @@
-<div align="center">
-  <img src="header.png" alt="AI/ML Fullstack Developer" width="100%">
+<div align="center">👋 Hey, I'm Kavy Porwal
+
+AI Engineer • Generative AI Developer • Python Developer
+
+Building intelligent systems with LLMs, RAG, AI Agents, and Machine Learning.
+
+</div>---
+
+🧠 About Me
+
+I'm a Computer Science (AI) student passionate about designing and building AI-powered applications that solve real-world problems.
+
+My primary interests include:
+
+- 🤖 AI Agents & Agentic Workflows
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🔗 LangGraph & LangChain
+- 📝 Large Language Models (LLMs)
+- ⚡ FastAPI & Python Backends
+- 📊 Machine Learning
+- 🚀 Production AI Systems
+
+---
+
+🚀 Current Focus
+
+Learning → Building → Deploying
+
+✓ Python
+✓ Machine Learning
+✓ Generative AI
+✓ LangChain
+✓ LangGraph
+✓ RAG Systems
+
+Currently Exploring:
+→ Multi-Agent Systems
+→ AI Guardrails
+→ Evaluation Frameworks
+→ Production AI Architecture
+
+---
+
+⚙️ Tech Stack
+
+Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>Generative AI
+
+- LangChain
+- LangGraph
+- Gemini
+- OpenAI
+- Hugging Face
+- Vector Databases
+- RAG Pipelines
+- AI Agents
+
+Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+</p>Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>---
+
+🌟 Featured Projects
+
+🧠 AI PPT Generator
+
+Generate complete presentations using AI-generated content and images.
+
+💬 MediBot
+
+Mental health chatbot powered by Machine Learning and NLP.
+
+📊 Social Media Performance Analyzer
+
+AI workflow for analyzing engagement and extracting actionable insights.
+
+🤖 Agentic AI Experiments
+
+Building AI workflows using LangGraph, LangChain, and modern agent architectures.
+
+---
+
+📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IamKavy47&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamKavy47&layout=compact&theme=tokyonight&hide_border=true" />
+</p><p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IamKavy47&theme=tokyonight&hide_border=true" />
+</p>---
+
+🗺️ AI Journey
+
+2024 → Started Programming & Machine Learning
+
+2025 → Built AI Applications and ML Projects
+
+2026 → Generative AI, LangChain, LangGraph, RAG
+
+Next Goal →
+Production AI Systems
+Multi-Agent Architectures
+AI SaaS Products
+
+---
+
+🎯 2026 Goals
+
+- Build production-ready AI applications
+- Master LangGraph and Agentic AI
+- Learn AI evaluation and guardrails
+- Contribute to open-source AI projects
+- Participate in major hackathons
+- Launch AI-powered products
+
+---
+
+🌐 Connect With Me
+
+Portfolio: https://iamkavy47.vercel.app
+
+LinkedIn: https://linkedin.com/in/iamkavy47
+
+GitHub: https://github.com/IamKavy47
+
+---
+
+<div align="center">"Building AI products today that feel like the future."
+
 </div>
-
-<h1 align="center">Hi there, I'm <a href="https://iamkavy47.vercel.app target="_blank">Kavy </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
-
-<p align="center">
-  <a href="https://github.com/IamKavy47"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML%20Engineer;Frontend%20Web%20Developer;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/iamkavy47" target="_blank"><img src="https://img.shields.io/twitter/follow/iamkavy47?logo=twitter&style=for-the-badge" alt="Twitter" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/iamkavy47" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
- </a>
-</p>
-
-<details>
-<summary>🚀 About Me</summary>
-
-\`\`\`python
-class AIFullstackDeveloper:
-    def __init__(self):
-        self.name = "Kavy Porwal"
-        self.role = "AI/ML Engineer & Front-end Developer"
-        self.language_spoken = ["en_US", "es_ES", "zh_CN"]
-
-    def say_hi(self):
-        print("Thanks for dropping by! I'm passionate about pushing the boundaries of AI and web technologies.")
-
-me = AIFullstackDeveloper()
-me.say_hi()
-\`\`\`
-</details>
-
-## 🔥 Streak Stats
-<p align="center">
-	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iamkavy47&theme=tokyonight-duo" alt="GitHub Streak" /></a>
-</p>
-
-<h3 align="center">⚡ Tech Stack</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,js,react,nodejs&perline=3" />
-  </a>
-</p>
-
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=iamkavy47&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkavy47&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <br/>
-  </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IamKavy47&theme=algolia&column=7&no-frame=true" />
-</p>
-
-## 🎨 Featured Projects
-
-<div align="center">
-<a href="https://github.com/IamKavy47/MARS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IamKavy47&repo=MARS&theme=algolia" />
-</a>
-
-</div>
-
-<h2>🐍 Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="/snake.svg" />
-
-<h3 align="center">📬 Get in Touch</h3>
-
-<p align="center">
-  <a href="mailto:kavyporwal75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://calendly.com/iamkavy47"><img src="https://img.shields.io/badge/Schedule%20a%20Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamkavy47&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-</div>
-
